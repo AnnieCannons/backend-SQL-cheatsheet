@@ -18,7 +18,7 @@ Let's practice (1) making, managing and merging Git branches, and (2) submitting
 
 ## 2. Making a new branch in your Github repo
 
-1. Create a branch to create your new feature “yesterday-image”
+1. Create a branch to create your new feature “new-feature”
     
     ```bash
     git checkout -b new-feature
@@ -36,6 +36,7 @@ Let's practice (1) making, managing and merging Git branches, and (2) submitting
 
 ## 3. Build a new feature in your `new-feature` branch
 
+1. Build a new feature in this site that.... TODO
 
 1. Once you have completed your new feature locally, commit your changes and push to your branch.
     
@@ -49,34 +50,30 @@ Let's practice (1) making, managing and merging Git branches, and (2) submitting
 
 
 1. Switch to the Target Branch (e.g., `main`)
-
-  Run the following command to switch to the branch you want to merge into:
-  
-  ```bash
-  git checkout main
-  ```
+      Run the following command to switch to the branch you want to merge into:
+      
+          ```bash
+          git checkout main
+          ```
 
 2. Update the Target Branch
-
-  Make sure your `main` branch is up-to-date with the latest changes from the remote:
-  
-  ```bash
-  git pull origin main
-  ```
+      Make sure your `main` branch is up-to-date with the latest changes from the remote:
+          
+          ```bash
+          git pull origin main
+          ```
 
 3. Merge the Specified Branch into the Current branch
-
-  ```bash
-  git merge new-feature
-  ```
+      ```bash
+      git merge new-feature
+      ```
 
 4. Push the Merged Changes to the Remote Repository
-
-  After a successful merge, push the updated `main` branch to GitHub:
-  
-  ```
-  git push origin main
-  ```
+      After a successful merge, push the updated `main` branch to GitHub:
+      
+      ```
+      git push origin main
+      ```
 
 ## 5. Submit a Pull Request (PR)
 In order to have your code accepted back into the original repo, you'll need to submit a pull request. 
