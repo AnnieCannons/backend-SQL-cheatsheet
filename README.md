@@ -19,7 +19,7 @@ Let's practice (1) making, managing and merging Git branches, and (2) submitting
 
 ## 2. Making a new branch in your Github repo
 
-1. Create a branch to create your new feature “new-feature”
+1. Create a branch called “new-feature”
     
     ```bash
     git checkout -b new-feature
@@ -32,7 +32,7 @@ Let's practice (1) making, managing and merging Git branches, and (2) submitting
     ```
     
     - This command will open up a lightweight text editor called LESS, which is an application that lives within the terminal.
-    - To exit LESS and go back to the command line, press the `q` key on your keyboard.
+    - To exit LESS and go back to the command line, press the `q` key on your keyboard. You may have to press `q` multiple times.
     
 
 ## 3. Build a new feature in your `new-feature` branch
