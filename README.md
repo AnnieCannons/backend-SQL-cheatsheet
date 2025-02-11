@@ -8,6 +8,7 @@ Let's practice (1) making, managing and merging Git branches, and (2) submitting
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/using-github/github-flow)
 
+# Instructions — Follow the steps below 
 
 ## 1. Forking and cloning a Github repo
 
@@ -91,3 +92,5 @@ In order to have your code accepted back into the original repo, you'll need to 
         - Any dependencies or testing instructions.
 8. Submit the Pull Request:
     - Click the **Create Pull Request** button.
+  
+## 5. Review & Accept another person's Pull Request
