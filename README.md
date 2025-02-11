@@ -94,3 +94,6 @@ In order to have your code accepted back into the original repo, you'll need to 
     - Click the **Create Pull Request** button.
   
 ## 5. Review & Accept another person's Pull Request
+
+Review one other person's pull request, provide feedback and accept it. 
+[The Github documentation on pull requests will help you learn how to do this.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/approving-a-pull-request-with-required-reviews)
