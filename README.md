@@ -5,9 +5,9 @@ Let's practice (1) making, managing and merging Git branches, and (2) submitting
 
 ## Resources
 
-[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/using-github/github-flow)
 
-[GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/using-github/github-flow)
 
 ## 1. Forking and cloning a Github repo
 
@@ -52,21 +52,19 @@ Let's practice (1) making, managing and merging Git branches, and (2) submitting
 1. Switch to the Target Branch (e.g., `main`)
       Run the following command to switch to the branch you want to merge into:
       
-          ```bash
+          
           git checkout main
-          ```
+          
 
 2. Update the Target Branch
       Make sure your `main` branch is up-to-date with the latest changes from the remote:
           
-          ```bash
           git pull origin main
-          ```
 
 3. Merge the Specified Branch into the Current branch
-      ```bash
+      
       git merge new-feature
-      ```
+      
 
 4. Push the Merged Changes to the Remote Repository
       After a successful merge, push the updated `main` branch to GitHub:
