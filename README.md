@@ -1,4 +1,4 @@
-# Let's collaborately create a SQL cheatsheet! 
+# Let's make a SQL cheatsheet together! 
 ## And in the process, we'll practice making Github branches & pull requests. 
 
 
