@@ -1,6 +1,6 @@
-# Github branches & pull requests practice 
+# Let's collaborately create a SQL cheatsheet! 
+## And in the process, we'll practice making Github branches & pull requests. 
 
-Let's practice (1) making, managing and merging Git branches, and (2) submitting and reviewing pull requests! 
 
 
 ## Resources
