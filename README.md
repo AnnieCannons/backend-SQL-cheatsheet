@@ -1,14 +1,11 @@
 # Let's make a SQL cheatsheet together! 
 
-In the SQL-cheatsheet.md file, you will see several SQL-related terms. Some have been already been defined. Your job is to collaborate with your colleagues to build out the rest of the SQL terms in this cheatsheet. 
+In the SQL-cheatsheet.md file, you will see several SQL-related terms. Some have been already been defined. Your job is to collaborate with your colleagues to define the rest of the SQL terms in this cheatsheet. 
 
 In addition to reviewing your SQL knowledge, in this process you will also practice making and merging Git branches, editing Markdown, submitting a pull request, and reviewing one of your classmates' pull requests. 
 
-Resources:
-- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-- [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/using-github/github-flow)
 
-## Instructions — Follow the steps below 
+## Instructions
 
 ### 1. Forking and cloning a Github repo
 
@@ -43,7 +40,7 @@ Resources:
     
     ```bash
     git add .
-    git commit -m "Added new feature"
+    git commit -m "Added SQL clause definition and example code to SQL-cheatsheet.md"
     git push origin new-feature
     ```
 
