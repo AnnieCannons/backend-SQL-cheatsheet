@@ -68,21 +68,21 @@ a built-in function in SQL that performs a specific task. `SELECT`, `CREATE TABL
   --replace this commend with example SQL code
   ```
 
-**13. `TODO` is...**
+**13. `SET` is...**
 (Luna: Your answer here)
 
   ``` sql
   --replace this commend with example SQL code
   ```
 
-**14. `TODO` is...**
+**14. `WHERE` is...**
 (Phil: Your answer here)
 
   ``` sql
   --replace this commend with example SQL code
   ```
 
-**14. `TODO` is...**
+**14. `FROM` is...**
 (Phoenix: Your answer here)
 
   ``` sql
