@@ -15,7 +15,8 @@ a string of characters that the database recognizes as a valid command. SQL synt
 **5. A clause is ...**
 a built-in function in SQL that performs a specific task. `SELECT`, `CREATE TABLE`, `FROM`, and `WHERE` are all examples of claues. By convention, clauses are written in capital letters. Clauses are also often called commands.
 
-**6. `CREATE TABLE` ...** creates a new table.
+**6. `CREATE TABLE` ...** 
+creates a new table.
   
   ``` sql
   CREATE TABLE friends (
@@ -27,64 +28,64 @@ a built-in function in SQL that performs a specific task. `SELECT`, `CREATE TABL
 
 
 **7. `INSERT INTO` ...** 
-(AJ: Your answer here)
+(AJ: Your definition of this SQL clause here)
 
   ``` sql
-  --replace this commend with example SQL code
+  --replace this comment with example SQL code
   ```
 
 **8. `VALUES` ...**
-(Arcie: Your answer here)
+(Arcie: Your definition of this SQL clause here)
 
   ``` sql
-  --replace this commend with example SQL code
+  --replace this comment with example SQL code
   ```
 
 **9. `SELECT` ...**
-(Bakari: Your answer here)
+(Bakari: Your definition of this SQL clause here)
 
   ``` sql
-  --replace this commend with example SQL code
+  --replace this comment with example SQL code
   ```
 
 **10. `ALTER TABLE` ...**
-(Bello: Your answer here)
+(Bello: Your definition of this SQL clause here)
 
   ``` sql
-  --replace this commend with example SQL code
+  --replace this comment with example SQL code
   ```
 
 **11. `UPDATE` ...**
-(Caden: Your answer here)
+(Caden: Your definition of this SQL clause here)
 
   ``` sql
-  --replace this commend with example SQL code
+  --replace this comment with example SQL code
   ```
 
 **12. `DELETE FROM` ...**
-(Kate: Your answer here)
+(Kate: Your definition of this SQL clause here)
 
   ``` sql
-  --replace this commend with example SQL code
+  --replace this comment with example SQL code
   ```
 
 **13. `SET` ...**
-(Luna: Your answer here)
+(Luna: Your definition of this SQL clause here)
 
   ``` sql
-  --replace this commend with example SQL code
+  --replace this comment with example SQL code
   ```
 
-**14. `WHERE` ...**
+**14. `GROUP BY` ...**
 (Phil: Your answer here)
 
   ``` sql
-  --replace this commend with example SQL code
+  --replace this comment with example SQL code
   ```
 
 **14. `FROM` ...**
 (Phoenix: Your answer here)
 
   ``` sql
-  --replace this commend with example SQL code
+  --replace this comment with example SQL code
   ```
