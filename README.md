@@ -1,10 +1,10 @@
 # Let's make a SQL cheatsheet together! 
-And in the process, we'll practice making Github branches & pull requests. 
 
+In the SQL-cheatsheet.md file, you will see several SQL-related terms. Some have been already been defined. Your job is to collaborate with your colleagues to build out the rest of the SQL terms in this cheatsheet. 
 
+In addition to reviewing your SQL knowledge, in this process you will also practice making and merging Git branches, editing Markdown, submitting a pull request, and reviewing one of your classmates' pull requests. 
 
-## Resources
-
+Resources:
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/using-github/github-flow)
 
@@ -35,9 +35,9 @@ And in the process, we'll practice making Github branches & pull requests.
     - To exit LESS and go back to the command line, press the `q` key on your keyboard. You may have to press `q` multiple times.
     
 
-## 3. Build a new feature in your `new-feature` branch
+## 3. Edit the SQL-cheatsheet.md file in your `new-feature` branch
 
-1. Build a new feature in this site that.... TODO
+1. You have been assigned a SQL clause in the SQL-cheatsheet.md file. This file is written in Markdown, which is a markup language used to create formatted text. Write a definition of your clause and a some example code of how you might use this clause. 
 
 1. Once you have completed your new feature locally, commit your changes and push to your branch.
     
