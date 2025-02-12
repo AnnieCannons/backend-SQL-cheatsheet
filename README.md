@@ -11,8 +11,6 @@ In addition to reviewing your SQL knowledge, in this process you will also pract
 
 1. Fork this Repository
 2. Clone the Repository
-3. Install npm packages and run the server to view your project
-4. Browse the code files to understand what the code is doing. Imagine you’re working as a developer, and you’ve just been assigned a task to build a new feature on this project. Your first step, before writing new code, is to familiarize yourself with the existing code!
 
 ### 2. Making a new branch in your Github repo
 
