@@ -15,7 +15,7 @@ a string of characters that the database recognizes as a valid command. SQL synt
 **5. A clause is ...**
 a built-in function in SQL that performs a specific task. `SELECT`, `CREATE TABLE`, `FROM`, and `WHERE` are all examples of claues. By convention, clauses are written in capital letters. Clauses are also often called commands.
 
-**6. `CREATE TABLE` is...** a clause that creates a new table.
+**6. `CREATE TABLE` ...** creates a new table.
   
   ``` sql
   CREATE TABLE friends (
@@ -26,63 +26,63 @@ a built-in function in SQL that performs a specific task. `SELECT`, `CREATE TABL
   ```
 
 
-**7. `INSERT INTO` is...** 
+**7. `INSERT INTO` ...** 
 (AJ: Your answer here)
 
   ``` sql
   --replace this commend with example SQL code
   ```
 
-**8. `VALUES` is...**
+**8. `VALUES` ...**
 (Arcie: Your answer here)
 
   ``` sql
   --replace this commend with example SQL code
   ```
 
-**9. `SELECT` is...**
+**9. `SELECT` ...**
 (Bakari: Your answer here)
 
   ``` sql
   --replace this commend with example SQL code
   ```
 
-**10. `ALTER TABLE` is...**
+**10. `ALTER TABLE` ...**
 (Bello: Your answer here)
 
   ``` sql
   --replace this commend with example SQL code
   ```
 
-**11. `UPDATE` is...**
+**11. `UPDATE` ...**
 (Caden: Your answer here)
 
   ``` sql
   --replace this commend with example SQL code
   ```
 
-**12. `DELETE FROM` is...**
+**12. `DELETE FROM` ...**
 (Kate: Your answer here)
 
   ``` sql
   --replace this commend with example SQL code
   ```
 
-**13. `SET` is...**
+**13. `SET` ...**
 (Luna: Your answer here)
 
   ``` sql
   --replace this commend with example SQL code
   ```
 
-**14. `WHERE` is...**
+**14. `WHERE` ...**
 (Phil: Your answer here)
 
   ``` sql
   --replace this commend with example SQL code
   ```
 
-**14. `FROM` is...**
+**14. `FROM` ...**
 (Phoenix: Your answer here)
 
   ``` sql
