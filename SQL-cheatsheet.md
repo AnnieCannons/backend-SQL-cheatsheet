@@ -1,22 +1,23 @@
 # SQL Cheatsheet
 
-SQL is... 
+1. SQL is... 
 
-A statement is ...
+2. A statement is ...
 
-CREATE TABLE 
+3. `CREATE TABLE`
 
-INSERT INTO 
-VALUES
+4. `INSERT INTO`
 
-SELECT
+5. `VALUES`
 
-A wildcard is...
+6. `SELECT`
 
-ALTER TABLE 
+7. A wildcard is...
 
-UPDATE 
+8. `ALTER TABLE`
 
-DELETE FROM deletes rows from a table.
+9. `UPDATE`
 
-A constraint is... 
+10. `DELETE FROM` 
+
+11. A constraint is... 
