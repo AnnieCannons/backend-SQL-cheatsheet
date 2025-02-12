@@ -83,7 +83,7 @@ creates a new table.
   --replace this comment with example SQL code
   ```
 
-**14. `FROM` ...**
+**14. `SUM` ...**
 (Phoenix: Your answer here)
 
   ``` sql
