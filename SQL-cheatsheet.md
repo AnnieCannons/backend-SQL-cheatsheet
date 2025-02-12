@@ -10,10 +10,10 @@ a database that organizes information into one or more tables.
 a database that organizes information into one or more tables.
 
 **4. A statement is...**
-a string of characters that the database recognizes as a valid command.
+a string of characters that the database recognizes as a valid command. SQL syntax rules require you to write a semi-colon at the end of each statement. 
 
-**5. A constraint is ...**
-a rule that limits the type of data that can go into a table. This ensures the accuracy and reliability of the data in the table.
+**5. A clause is ...**
+a built-in function in SQL that performs a specific task. `SELECT`, `CREATE TABLE`, `FROM`, and `WHERE` are all examples of claues. By convention, clauses are written in capital letters. Clauses are also often called commands.
 
 **6. `CREATE TABLE` is...** a clause that creates a new table.
   
