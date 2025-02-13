@@ -82,10 +82,15 @@ WHERE name = 'Psyduck';
 ```
 
 **14. `GROUP BY` ...**
-(Phil: Your answer here)
+The `GROUP BY` clause is used to organize rows in a result based on shared values in one or more columns. It is commonly paired with aggregate functions like `COUNT()`, `SUM()`, or `AVG()` to summarize data for each group. The `GROUP BY` clause comes after `FROM` or `WHERE`, but must be placed before `ORDER BY` or `LIMIT`.
+
+The following query counts how many cheeses belong to each type: 
 
 ```sql
---replace this comment with example SQL code
+SELECT type,
+  COUNT(*)
+FROM cheeses
+GROUP BY type
 ```
 
 **14. `ORDER BY` ...**
