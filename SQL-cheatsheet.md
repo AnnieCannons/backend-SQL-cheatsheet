@@ -37,11 +37,17 @@ In SQL the `INSERT INTO` clause allows you to insert a record into an SQL table.
 
 
 **8. `VALUES` ...**
-(Arcie: Your definition of this SQL clause here)
+(Arcie: Values are specific data you want to insert into the columns, the syntax below allows you to add multiple values at once  )
 
-```sql
---replace this comment with example SQL code
-```
+
+  ``` sql
+  INSERT INTO ( id, name , birthday)
+  VALUES
+   (1, Aj  , 1998-10-03)
+   (2, Luna  , 1990-05-10)
+   (3, Pheonix  , 1990-02-08)
+
+  ```
 
 **9. `SELECT` ...**
 (Bakari: Your definition of this SQL clause here)
