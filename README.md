@@ -59,7 +59,7 @@ In addition to reviewing your SQL knowledge, in this process you will also pract
 
 3. Merge the Specified Branch into the Current branch
       
-      git merge new-feature
+          git merge new-feature
       
 
 4. Push the Merged Changes to the Remote Repository
