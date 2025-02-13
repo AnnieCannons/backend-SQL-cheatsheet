@@ -85,4 +85,14 @@ creates a new table.
 (Phil: Your answer here)
 
   ``` sql
-  --replace this comment with exa
+  --replace this comment with example SQL code
+  ```
+
+**14. `ORDER BY` ...**
+(Phoenix: Your answer here)
+
+  ``` sql
+  --replace this comment with example SQL code
+  ```
+
+**15. A constraint is...** 
