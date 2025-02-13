@@ -75,10 +75,13 @@ In SQL the `INSERT INTO` clause allows you to insert a record into an SQL table.
 
 
 **12. `DELETE FROM` ...**
-(Kat: Your definition of this SQL clause here)
+
+statement removes specific rows from a table. If no condition is given, it deletes all rows but keeps the table.
+
 
 ```sql
---replace this comment with example SQL code
+DELETE FROM employees WHERE department = 'Sales';
+--This removes all employees in the Sales department.
 ```
 
 **13. `SET` ...**
