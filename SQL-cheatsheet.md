@@ -26,12 +26,15 @@ CREATE TABLE friends (
 );
 ```
 
-**7. `INSERT INTO` ...**
-(AJ: Your definition of this SQL clause here)
 
-```sql
---replace this comment with example SQL code
-```
+**7. `INSERT INTO` ...** 
+In SQL the `INSERT INTO` clause allows you to insert a record into an SQL table. 
+
+  ``` sql
+    INSERT INTO students (is, name, state, status)
+    VAUES (2, 'AJ', 'AZ', 'Part time');
+  ```
+
 
 **8. `VALUES` ...**
 (Arcie: Your definition of this SQL clause here)
