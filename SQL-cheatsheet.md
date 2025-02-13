@@ -35,10 +35,15 @@ creates a new table.
   ```
 
 **8. `VALUES` ...**
-(Arcie: Your definition of this SQL clause here)
+(Arcie: Values are specific data you want to insert into the columns, the syntax below allows you to add multiple values at once  )
 
   ``` sql
-  --replace this comment with example SQL code
+  INSERT INTO ( id, name , birthday)
+  VALUES
+   (1, Aj  , 1998-10-03)
+   (2, Luna  , 1990-05-10)
+   (3, Pheonix  , 1990-02-08)
+
   ```
 
 **9. `SELECT` ...**
@@ -80,14 +85,4 @@ creates a new table.
 (Phil: Your answer here)
 
   ``` sql
-  --replace this comment with example SQL code
-  ```
-
-**14. `ORDER BY` ...**
-(Phoenix: Your answer here)
-
-  ``` sql
-  --replace this comment with example SQL code
-  ```
-
-**15. A constraint is...** 
+  --replace this comment with exa
