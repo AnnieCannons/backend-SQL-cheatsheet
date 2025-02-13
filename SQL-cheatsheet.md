@@ -83,10 +83,12 @@ CREATE TABLE friends (
 ```
 
 **14. `ORDER BY` ...**
-(Phoenix: Your answer here)
+is a clause that indicates you want to sort the result set by a particular column either alphabetically or numerically.
 
 ```sql
---replace this comment with example SQL code
+SELECT column_name
+FROM table_name
+ORDER BY column_name ASC | DESC;
 ```
 
 **15. A constraint is...**
