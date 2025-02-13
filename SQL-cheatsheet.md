@@ -55,11 +55,15 @@ CREATE TABLE friends (
 ```
 
 **11. `UPDATE` ...**
-(Caden: Your definition of this SQL clause here)
+`UPDATE` is used to edit rows in a table. It includes the `SET` clause which specifies the columns to change, and the `WHERE` clause selects which records to update.
 
-```sql
---replace this comment with example SQL code
-```
+
+  ``` sql
+  UPDATE students  
+  SET grade = 'A'  
+  WHERE student_id = 10;
+  ```
+
 
 **12. `DELETE FROM` ...**
 (Kat: Your definition of this SQL clause here)
