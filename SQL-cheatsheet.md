@@ -62,7 +62,7 @@ CREATE TABLE friends (
 ```
 
 **12. `DELETE FROM` ...**
-(Kate: Your definition of this SQL clause here)
+(Kat: Your definition of this SQL clause here)
 
 ```sql
 --replace this comment with example SQL code
