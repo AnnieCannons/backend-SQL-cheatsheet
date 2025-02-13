@@ -10,53 +10,53 @@ a database that organizes information into one or more tables.
 a database that organizes information into one or more tables.
 
 **4. A statement is...**
-a string of characters that the database recognizes as a valid command. SQL syntax rules require you to write a semi-colon at the end of each statement. 
+a string of characters that the database recognizes as a valid command. SQL syntax rules require you to write a semi-colon at the end of each statement.
 
 **5. A clause is ...**
 a built-in function in SQL that performs a specific task. `SELECT`, `CREATE TABLE`, `FROM`, and `WHERE` are all examples of claues. By convention, clauses are written in capital letters. Clauses are also often called commands.
 
-**6. `CREATE TABLE` ...** 
+**6. `CREATE TABLE` ...**
 creates a new table.
-  
-  ``` sql
-  CREATE TABLE friends (
-    id INTEGER,
-    name TEXT,
-    birthday DATE
-  );
-  ```
 
+```sql
+CREATE TABLE friends (
+  id INTEGER,
+  name TEXT,
+  birthday DATE
+);
+```
 
-**7. `INSERT INTO` ...** 
+**7. `INSERT INTO` ...**
 (AJ: Your definition of this SQL clause here)
 
-  ``` sql
-  --replace this comment with example SQL code
-  ```
+```sql
+--replace this comment with example SQL code
+```
 
 **8. `VALUES` ...**
 (Arcie: Your definition of this SQL clause here)
 
-  ``` sql
-  --replace this comment with example SQL code
-  ```
+```sql
+--replace this comment with example SQL code
+```
 
 **9. `SELECT` ...**
 (Bakari: Your definition of this SQL clause here)
 
-  ``` sql
-  --replace this comment with example SQL code
-  ```
+```sql
+--replace this comment with example SQL code
+```
 
 **10. `ALTER TABLE` ...**
 (Bello: Your definition of this SQL clause here)
 
-  ``` sql
-  --replace this comment with example SQL code
-  ```
+```sql
+--replace this comment with example SQL code
+```
 
 **11. `UPDATE` ...**
 `UPDATE` is used to edit rows in a table. It includes the `SET` clause which specifies the columns to change, and the `WHERE` clause selects which records to update.
+
 
   ``` sql
   UPDATE students  
@@ -64,32 +64,34 @@ creates a new table.
   WHERE student_id = 10;
   ```
 
-**12. `DELETE FROM` ...**
-(Kate: Your definition of this SQL clause here)
 
-  ``` sql
-  --replace this comment with example SQL code
-  ```
+**12. `DELETE FROM` ...**
+(Kat: Your definition of this SQL clause here)
+
+```sql
+--replace this comment with example SQL code
+```
 
 **13. `SET` ...**
 (Luna: Your definition of this SQL clause here)
 
-  ``` sql
-  --replace this comment with example SQL code
-  ```
+```sql
+--replace this comment with example SQL code
+```
 
 **14. `GROUP BY` ...**
 (Phil: Your answer here)
 
-  ``` sql
-  --replace this comment with example SQL code
-  ```
+```sql
+--replace this comment with example SQL code
+```
 
 **14. `ORDER BY` ...**
 (Phoenix: Your answer here)
 
-  ``` sql
-  --replace this comment with example SQL code
-  ```
+```sql
+--replace this comment with example SQL code
+```
 
-**15. A constraint is...** 
+**15. A constraint is...**
+a rule that limits the data type that can be stored in a column. This ensures the accuracy and reliability of the data in the table.
