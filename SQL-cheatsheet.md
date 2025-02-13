@@ -70,9 +70,11 @@ CREATE TABLE friends (
 
 **13. `SET` ...**
 (Luna: Your definition of this SQL clause here)
-
+The SET clause is used in SQL to assign values to variables or to update column values in a table.
 ```sql
---replace this comment with example SQL code
+UPDATE pokemon_team
+SET hp = hp + 20
+WHERE name = 'Psyduck';
 ```
 
 **14. `GROUP BY` ...**
