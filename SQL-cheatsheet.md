@@ -28,8 +28,7 @@ creates a new table.
 
 
 **7. `INSERT INTO` ...** 
-(AJ: Your definition of this SQL clause here)
-## In SQL the 'INSERT INTO' clause allows you to insert a record into an SQL table. 
+In SQL the `INSERT INTO` clause allows you to insert a record into an SQL table. 
 
   ``` sql
     INSERT INTO students (is, name, state, status)
