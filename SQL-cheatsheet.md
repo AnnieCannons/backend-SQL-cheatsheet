@@ -62,7 +62,9 @@ CREATE TABLE friends (
 ```
 
 **12. `DELETE FROM` ...**
+
 (statement removes specific rows from a table. If no condition is given, it deletes all rows but keeps the table.)
+
 
 ```sql
 --DELETE FROM employees WHERE department = 'Sales';
