@@ -67,7 +67,7 @@ statement removes specific rows from a table. If no condition is given, it delet
 
 
 ```sql
---DELETE FROM employees WHERE department = 'Sales';
+DELETE FROM employees WHERE department = 'Sales';
 --This removes all employees in the Sales department.
 ```
 
