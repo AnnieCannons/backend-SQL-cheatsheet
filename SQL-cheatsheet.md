@@ -81,10 +81,10 @@ The `GROUP BY` clause is used to organize rows in a result based on shared value
 The following query counts how many cheeses belong to each type: 
 
 ```sql
-SELECT rating,
+SELECT type,
   COUNT(*)
-FROM movies
-GROUP BY rating
+FROM cheeses
+GROUP BY type
 ```
 
 **14. `ORDER BY` ...**
