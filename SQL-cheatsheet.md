@@ -116,3 +116,18 @@ ORDER BY column_name ASC | DESC;
 
 **15. A constraint is...**
 a rule that limits the data type that can be stored in a column. This ensures the accuracy and reliability of the data in the table.
+
+**16. `CASE` ...** creates different outputs like an if-else statement.
+- Each `WHEN` tests a condition and the following `THEN` gives us the string if the condition is true.
+- The `ELSE` gives us the string if *all* the above conditions are false.
+- The `CASE` statement must end with `END`.
+
+```sql
+SELECT name,
+ CASE
+  WHEN imdb_rating > 8 THEN 'Fantastic'
+  WHEN imdb_rating > 6 THEN 'Poorly Received'
+  ELSE 'Avoid at All Costs'
+ END AS 'Review'
+FROM movies;
+```
