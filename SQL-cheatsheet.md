@@ -57,10 +57,11 @@ In SQL the `INSERT INTO` clause allows you to insert a record into an SQL table.
 ```
 
 **10. `ALTER TABLE` ...**
-(Bello: Your definition of this SQL clause here)
+(Bello: ALTER TABLE is used to add, delete, or modify columns in an existing table. Also used to add and drop various constraints on an existing table.)
 
 ```sql
---replace this comment with example SQL code
+ALTER TABLE Customers
+ADD Email varchar(255);
 ```
 
 **11. `UPDATE` ...**
